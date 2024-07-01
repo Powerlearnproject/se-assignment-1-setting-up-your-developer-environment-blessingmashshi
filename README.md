@@ -35,13 +35,14 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
-
+A; Installing Windows 11: check system requirement, Backup your important files and data, Download Windows 11, create instalation media, Install windos 11
+B; Installing Python; go to Python webside and download the latest version for windows, then open the downloaded file to run the installer, check the box to add Python to PATH, choose customize installation, click instal now to complete the installation, open command prompt type python--version to verify the instalation
+C; Troubleshooting that i encountered was Python environmental issues
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
+- A GitHub repository containing a sampleB;  project initialized with Git and any necessary configuration files (e.g., .gitignore).
+- A reflection on the challenges faced during setup and strategin
+#Submision
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
 #Evaluation Criteria:**
