@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15295795&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -33,13 +35,14 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
-
+A; Installing Windows 11: check system requirement, Backup your important files and data, Download Windows 11, create instalation media, Install windos 11
+B; Installing Python; go to Python webside and download the latest version for windows, then open the downloaded file to run the installer, check the box to add Python to PATH, choose customize installation, click instal now to complete the installation, open command prompt type python--version to verify the instalation
+C; Troubleshooting that i encountered was Python environmental issues
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
+- A GitHub repository containing a sampleB;  project initialized with Git and any necessary configuration files (e.g., .gitignore).
+- A reflection on the challenges faced during setup and strategin
+#Submision
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
 #Evaluation Criteria:**
